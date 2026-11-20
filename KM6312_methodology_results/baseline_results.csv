@@ -1,0 +1,2 @@
+Baseline,ROC_AUC,Macro_F1,Accuracy,Precision,Recall
+Training-prior/majority,0.5,0.34400296280620074,0.5243971288007098,0.5243971288007098,1.0

@@ -1,0 +1,7 @@
+Algorithm,Feature_Set,Parameter
+Logistic Regression,Sentiment-only,C=0.1
+Logistic Regression,Market-only,C=0.1
+Logistic Regression,Combined,C=0.1
+Random Forest,Sentiment-only,leaf=20
+Random Forest,Market-only,leaf=20
+Random Forest,Combined,leaf=20
